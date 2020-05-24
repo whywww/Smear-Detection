@@ -1,4 +1,5 @@
 # Smear-Detection
+Documentation: [Documentation](https://github.com/whywww/Smear-Detection/blob/master/Smear%20Detection%20Report.pdf)
 ## run code:
 #### run test: 
 
